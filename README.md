@@ -15,15 +15,16 @@ Acme has approached you for a proof of concept, please see details below.
 
 # Requirements
 
-1. Create an application boilerplate code using your language of preference
-2. The application must be an API that returns some of its configurations from an endpoint
-3. The application should have a healthcheck endpoint
-4. The application must be containerized
-5. Configuration must be provided within the runtime environment
-6. The application must contain 1 or more pipelines that performs verifications on the image and/or code
-7. The application must be demonstrated as a deployment in a Kubernetes cluster
-8. [ Extra ] Create a free kubernetes cluster in a cloud environment (i.e. IBM Cloud, Digital Ocean)
-9. [ Extra ] Automate the deployment of the application
+1. Your solution must be hosted in a public github repo and shared with the team.
+2. Create an application boilerplate code using your language of preference.
+3. The application must be an API that returns some of its configurations from an endpoint.
+4. The application should have a healthcheck endpoint.
+5. The application must be containerized.
+6. Configuration must be provided within the runtime environment.
+7. The application must contain 1 or more pipelines that performs verifications on the image and/or code.
+8. The application must be demonstrated as a deployment in a Kubernetes cluster.
+9. [ Extra ] Create a free kubernetes cluster in a cloud environment (i.e. IBM Cloud, Digital Ocean).
+10. [ Extra ] Automate the deployment of the application.
 
 # Recommended tools
 
